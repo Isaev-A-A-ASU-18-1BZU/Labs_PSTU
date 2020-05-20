@@ -1,0 +1,4 @@
+﻿  лаб9.cpp
+c:\users\acer\desktop\пнипу\2 семестр\программирование\с2л9\с2л9\лаб9.cpp(12): warning C4244: =: преобразование "std::streamoff" в "int", возможна потеря данных
+  с2л9.vcxproj -> C:\Users\acer\Desktop\ПНИПУ\2 семестр\Программирование\с2л9\Debug\с2л9.exe
+  с2л9.vcxproj -> C:\Users\acer\Desktop\ПНИПУ\2 семестр\Программирование\с2л9\Debug\с2л9.pdb (Partial PDB)
