@@ -1,0 +1,10 @@
+﻿  Vector.cpp
+  Создание кода...
+  Компиляция...
+  main.cpp
+  Создание кода...
+main.obj : error LNK2019: ссылка на неразрешенный внешний символ "public: __thiscall Vector<int>::Vector<int>(int,int)" (??0?$Vector@H@@QAE@HH@Z) в функции _main
+main.obj : error LNK2019: ссылка на неразрешенный внешний символ "public: __thiscall Vector<int>::~Vector<int>(void)" (??1?$Vector@H@@QAE@XZ) в функции _main
+main.obj : error LNK2019: ссылка на неразрешенный внешний символ "class std::basic_ostream<char,struct std::char_traits<char> > & __cdecl operator<<(class std::basic_ostream<char,struct std::char_traits<char> > &,class Vector<int> const &)" (??6@YAAAV?$basic_ostream@DU?$char_traits@D@std@@@std@@AAV01@ABV?$Vector@H@@@Z) в функции _main
+main.obj : error LNK2019: ссылка на неразрешенный внешний символ "class std::basic_istream<char,struct std::char_traits<char> > & __cdecl std::>>(class std::basic_istream<char,struct std::char_traits<char> > &,class Vector<int> &)" (?>>@std@@YAAAV?$basic_istream@DU?$char_traits@D@std@@@1@AAV21@AAV?$Vector@H@@@Z) в функции _main
+C:\Users\egor4\Desktop\ПНИПУ\3 семестр\Программирование\Lab_seven\Debug\Lab_seven.exe : fatal error LNK1120: неразрешенных внешних элементов: 4
