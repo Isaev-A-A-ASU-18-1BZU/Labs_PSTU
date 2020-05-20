@@ -1,0 +1,4 @@
+﻿  Main_lab2.cpp
+c:\users\acer\desktop\пнипу\2 семестр\программирование\console2\console2\main_lab2.cpp(33): warning C4305: аргумент: усечение из "double" к "float"
+  Console2.vcxproj -> C:\Users\acer\Desktop\ПНИПУ\2 семестр\Программирование\Console2\Debug\Console2.exe
+  Console2.vcxproj -> C:\Users\acer\Desktop\ПНИПУ\2 семестр\Программирование\Console2\Debug\Console2.pdb (Full PDB)
